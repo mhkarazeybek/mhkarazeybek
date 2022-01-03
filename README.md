@@ -2,7 +2,7 @@
   <br>
   <samp>
     Hello there 👋! I'm <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://mhkarazeybek.com">MHKARAZEYBEK</a></b>.
-    <br>I'm a Computer Engineering Undergraduate Student from Uludag University<br>
+    <br>I'm a Computer Engineer | Penetration Test Specialist<br>
 
 </samp>
 
