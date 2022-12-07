@@ -6,7 +6,7 @@
 
 <br>
 
-## <picture><img src = "./assets/mdImages/about_me.gif" width = 50px></picture> **About me**  <img src="https://giphy.com/embed/077i6AULCXc0FKTj9s" onerror=alert%28%272%27%29 width="35">
+## <picture><img src = "./assets/mdImages/about_me.gif" width = 50px></picture> **About me**  <img src="https://giphy.com/embed/077i6AULCXc0FKTj9s%26alert%28%272%27%29" width="35">
 
 <picture> <img align="right" src="./assets/mdImages/Right_Side.gif" width = 250px></picture>
 
