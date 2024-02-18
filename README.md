@@ -45,6 +45,4 @@
 
 [![](https://github-profile-trophy.vercel.app/?username=mhkarazeybek&theme=dracula&no-frame=false&no-bg=false&margin-w=4&row=2&column=3)](https://github-profile-trophy.vercel.app/?username=mhkarazeybek&theme=dracula&no-frame=false&no-bg=false&margin-w=4&row=2&column=3)
 ---
-
-![snake gif](https://github.com/mhkarazeybek/mhkarazeybek/blob/output/github-contribution-grid-snake.gif)
 </div>
